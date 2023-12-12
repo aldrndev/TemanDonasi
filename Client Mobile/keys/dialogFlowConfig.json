@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cobalt-vector-398608",
+  "private_key_id": "eacc1984b3712ee0eee7b7921511baf99e8307ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCnrEZ2sqJSbdN5\nYDB04nDlQbJW2R6HeFICP80jSvt1/uvOmR1XGr/detA8La4FGcvvIP1DncOtasJM\n8AkaSqLCI8ra4btwhIzvnKdXPZAnrVAQRLSbrH2EmGpFYHaycJaC9EyU9NI5KsjE\noNAIqejbk4wJJjeOGIFQchNFO6hF3Ph41bsbavlxbCATb+d7710A1W95BK3/SuCU\nYrBqX7G4fTLhlyZFA/3zTmj/A7D1h/n+VzQddn9sn3/HvKlxZixPGcEi3Ul8c+FG\nMDFdclbK88yBznGWoYzMosC2Uw5F4x43rEOg6HXBg2R9NDFBGGQbfGex2xD7Cu+t\nbBh9eM9jAgMBAAECggEATqQ8gFuUSnj8YMc+svOp470GejlnWj6SqD9oZY87lcI0\nszeZTUtchfKeTDtYjUfmIIgmgVozdtjFvPQwMMakw82pzTNmiIWC3LdqvT5AqHtf\nO+Idm44xaMlbvqJZyaOI1G7kpFCXcPyiIacTK50VfDcdzQTBtcHElQiMBULPz8Pq\nznMAgoWWkc1LxjDlfkfswuu6FuSKaGZNJa28V/XPr/9XD9S9WqHmzySJ1jAhbP+F\nRkGgIelBRFC3DyYrTkiYCeBSSQ0D9zXp72lwePIXDQiNSXwceF5ywvwFE4E32Hkx\nw6leJSGUfdDufMrngmED0MAC9hkfBW82p4LF+4sV4QKBgQDmUKyupWVMOfeYIzce\nINOTkM8ExAXjnHbY7s4JwGbUi6tDHaPkNZ7BgB8XfNp6rdrxLMMJNTK2slInGOKN\nIuYGBiO33bpb9rUlGS45gXQvNMoq+TNnvHcER0S0m6eyccaHErX2HALFCIsLpiHr\nT2JYmDILLzY3DMHMYG200+D5mQKBgQC6XzaIZHLFMOS8R1T0vMGUvqiDb/a8BRxO\n1q2JSKC8NnBvVLeRBOQiEse0S2SycqSSCkV6JeaDI4YikNv9MBG6bXhTP6U+NOS4\nTOTrZZL776WWyiOPEfWJyqdSDOzK3bbMTlycc7nrSxKYhZL+yraCfr6cwU551R16\nuhFh5OqGWwKBgQCs9k8IhVtyiGHhliixbpOV0X02pgOKMJmsRoLjHePboNxH9f17\nx6zmwlIXMINe+CthTW1W/+WLAJXjmLOirF+0jG3Mii6HG9pj9uoY85gOT4W4ChfJ\nwuZahy8Yt4CT6Q/fpnSSU+zcjZLmd6gncCF6SSnj7lu3sdPkqVIaJ7hfmQKBgCUS\n/bkiKkaZ1Faz5e2NgwDA8Kq84htC9P+l6v2NShRGzBUJiD6791nj3IA8IzrwXVaD\n3pBO680Yiv1jTa/PGSe50R7WYVu/j+Qtv7goC5Y8dPdLHMnAK9UOUDydP5mXg16f\nFAM3bjulQny+zaAL2USaS/bI6YCI6YVZcE3GCPVTAoGBAMT1PhgV16gsvY/+3Xi9\nxg+OOMPZn4h/c6h+aVtvkvKBOwEjwOMYXXTBO+941aVGjMiqPhY1K4I0v6QmtXbO\nIFypiuEPWrj1Wpu8zQFjSdeJ0aFFFiGU+DzxT/i4HrQ5xnlQo2eOPbekmu6acKBr\n/Fioc3fi0yLilk00QPLJyT1z\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbox@cobalt-vector-398608.iam.gserviceaccount.com",
+  "client_id": "109120936481052317259",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbox%40cobalt-vector-398608.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

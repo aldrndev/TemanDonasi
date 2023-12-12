@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "daily-journey-398210",
+  "private_key_id": "45d353f131da67fcd692b6ca6bcfc517e1df4441",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxlm307c2a3JfU\n6PtC9dNrep0bRutLK9CXsNO60j8HrmlSRMO7Hjd50KN1aTkEqkjjjtQ8+6zy2iP9\nbKL9gJbDcj8BEPZxcFtPATJxit8FtUPENkyvgb+59Pur80Xol/HDBr9r3a7ZiuwJ\nt1dbKI92ejsUakYfvmrhZs9/HSOAsJl14zLLS5etfb/uOovNTKSk2xa2Ha0ttBx2\nMj/SMZPiOtm9Zx54IZwgH25YuoTbIPDzrvO7xoQ6mxhFK/3oqbKmD9YV2lf0T7mm\ntextPhmlnJa7pJ6yh1G2RM9RCKVk94JFt7qf1iHzRmIOcedqxwrjBA+eteClWYT6\nOuItiEV7AgMBAAECggEAU5U/NHfWfQxVQ+bSF7523w/LMQLsjKlXGIYn6Ta6ZsWe\nmZN24jODHcjmnkTDiuAQxVW8q+UyjezA4q7GefUTQHMdl0ViEJs2xpUEJm+br2aU\nuh1qc3JoiD/3UgOChEo7hjS/VKf2ezpJBPuvWF7bQwKdmuq4DYnEaUlH4QaYZqEs\nl0/g8XLkQ2/Ptf3FyZBvtYO5R9fCJ085ZpWm7/5/N7ck4fR/zgGAYZoZbynySz2d\nPB7jP2x0msPPX+XTAVY8HeBb3I2rd+zFFRmhgecEpyrgJloemor6qDsGKZvrwYyn\neU+/xx4gKblr3JI4OY+ITMC6YuSrhNz3iBxFBGXQfQKBgQD6QMKp8AIsu0DJODsR\nW7P0rEOQHrk8I/hKjNun3810170sUNeIUF2xo5OvyoHItz7VznbnOZYBuTqxyMnl\n7jpYBWaGksCc11LXXyiUDcNxv68bv/duSrKdx49KZF6Q7DWadNTuBucQsaC9Ckiy\n4Rg6pmHZ5e9xTUb8PXzCddAOXQKBgQC1qngDOYt1bPpOPhNVFdC7LPp7RTk5+ZNh\nFzRhBA+l3hkzGRUCmHovTfP7EILckqGtgxv+ZZ31UE2BanE7jWuFIuZ849SARP5F\nFMQjG2HRwTkjtnYRnQVuaRp2P/58fApljXWj5vpzr0tTSra2UEtZn4q1eD8iXdcy\nwBsH4Vv1twKBgQC2jgdzcGIlv3PDVgHA5+Se2AtxVvhJpvO5bofOLrTyR274pQCV\nsAqpS2qxEkka4pIz5ilXA+sp1rW6e37M/LwS+d2Qzf00bN9BvWkcl+27TNmwpJkb\nG+KwtqMQ4acakTWJNzEdcmudAfb/8ECYPRwvrLA1BEdnn7foyfH46XidAQKBgEGm\nrWBc920kSQDlpg7lp109T/gkeB3fd8dqn19AHHeQ4AJ7WgBqIh3eSgG9Yc1coFkY\nPJGfH4p7zsaqNOmUnfqrNiiEHVONm2ZTrt4REzS+Y2vokJqk6EWSbiG11r4eBZPV\nn2HwIyqTeuFK6uTP96sX4QTbw9UjnJWWny4l3xnZAoGBAL0YDOdO+caJnuIFsx4n\ngX/O0O340cz0f2uxyGQ/BiFCAJgtN9BNCxdo30m8Ffvpzez5k/WyUYa2ZCjJwcCr\nKFKy0xZm4HYR6iLcSalNvZgUyVxk7Cp0QBav1dzKohtOXGKAVCisdiBanil+xnx5\ns7BRXYRX3lLWIqbmZz+fP+Pn\n-----END PRIVATE KEY-----\n",
+  "client_email": "teman-donasi-dialogflow@daily-journey-398210.iam.gserviceaccount.com",
+  "client_id": "110513020938212145627",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/teman-donasi-dialogflow%40daily-journey-398210.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
