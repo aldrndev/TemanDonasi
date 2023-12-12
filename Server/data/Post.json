@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Buku-Buku Edukasi untuk Sekolah Dasar",
+    "description": "Bergabunglah bersama kami untuk memberikan akses pendidikan yang lebih baik melalui buku-buku bekas. Dengan buku, kita bisa membuka dunia baru bagi mereka. Donasikan buku-buku pelajaran, cerita, atau edukatif lainnya yang masih layak baca.",
+    "location": "Jl. Pemuda No. 37, Rawamangun, Jakarta Timur, DKI Jakarta 13220",
+    "goal": 300,
+    "progress": 45,
+    "donatedItem": "Buku",
+    "authorId": 3,
+    "categoryId": 4,
+    "expirationDate": "2023-12-20"
+  },
+  {
+    "title": "Mainan Anak untuk Rumah Singgah",
+    "description": "Mainan bisa menjadi sumber kegembiraan bagi anak-anak. Banyak anak yang menunggu mainan baru dari donasi Anda. Ayo, sumbangkan mainan layak pakai untuk menyebarkan senyum ke setiap wajah kecil!",
+    "location": "Jl. Kebon Jeruk Raya, Kebon Jeruk, Jakarta Barat, DKI Jakarta 11530",
+    "goal": 150,
+    "progress": 63,
+    "donatedItem": "Mainan",
+    "authorId": 4,
+    "categoryId": 2,
+    "expirationDate": "2023-11-25"
+  },
+  {
+    "title": "Perlengkapan Sekolah untuk Daerah Terpencil",
+    "description": "Mari bantu anak-anak di daerah terpencil untuk mendapatkan perlengkapan sekolah yang memadai. Dari tas sekolah hingga alat tulis, sumbangkan perlengkapan bekas yang masih bisa digunakan untuk masa depan mereka yang lebih cerah.",
+    "location": "Jl. Raya Bogor Km. 26, Ciracas, Jakarta Timur, DKI Jakarta 13740",
+    "goal": 500,
+    "progress": 87,
+    "donatedItem": "Perlengkapan Sekolah",
+    "authorId": 3,
+    "categoryId": 4,
+    "expirationDate": "2023-11-30"
+  },
+  {
+    "title": "Elektronik Rumah Tangga untuk Korban Bencana",
+    "description": "Keluarga yang terkena dampak bencana seringkali kehilangan banyak barang berharga, termasuk elektronik. Donasikan elektronik yang masih berfungsi seperti kipas angin, rice cooker, dan lainnya untuk membantu mereka memulai kembali.",
+    "location": "Jl. Raya Cirendeu No. 45, Ciputat, Tangerang Selatan, Banten 15419",
+    "goal": 100,
+    "progress": 40,
+    "donatedItem": "Elektronik",
+    "authorId": 3,
+    "categoryId": 3,
+    "expirationDate": "2023-12-10"
+  },
+  {
+    "title": "Kacamata Preloved untuk Lansia",
+    "description": "Banyak lansia yang membutuhkan kacamata namun tidak mampu membelinya. Donasikan kacamata Anda yang sudah tidak terpakai agar mereka bisa melihat dunia lebih jelas.",
+    "location": "Jl. Danau Sunter Utara, Sunter, Jakarta Utara, DKI Jakarta 14350",
+    "goal": 200,
+    "progress": 122,
+    "donatedItem": "Kacamata",
+    "authorId": 4,
+    "categoryId": 5,
+    "expirationDate": "2023-12-05"
+  },
+  {
+    "title": "Pakaian Hangat untuk Musim Hujan",
+    "description": "Musim hujan telah tiba dan banyak saudara kita yang membutuhkan pakaian hangat. Mari donasikan jaket, sweater, atau pakaian hangat lainnya untuk membantu mereka melewati musim dingin.",
+    "location": "Jl. Margonda Raya No. 23, Depok, Jawa Barat 16431",
+    "goal": 300,
+    "progress": 150,
+    "donatedItem": "Pakaian Hangat",
+    "authorId": 3,
+    "categoryId": 1,
+    "expirationDate": "2023-11-29"
+  },
+  {
+    "title": "Sepatu untuk Anak-Anak Dhuafa",
+    "description": "Setiap anak berhak untuk memiliki sepatu yang layak. Ayo bantu anak-anak kurang mampu dengan menyumbangkan sepatu bekas yang masih layak pakai.",
+    "location": "Jl. Otista Raya No. 70, Cawang, Jakarta Timur, DKI Jakarta 13330",
+    "goal": 250,
+    "progress": 95,
+    "donatedItem": "Sepatu",
+    "authorId": 2,
+    "categoryId": 2,
+    "expirationDate": "2023-12-15"
+  },
+  {
+    "title": "Alat Musik untuk Pendidikan Seni Anak",
+    "description": "Musik merupakan salah satu sarana untuk mengembangkan kreativitas anak. Mari donasikan alat musik Anda untuk membantu sekolah-sekolah di daerah kurang mampu menciptakan program seni yang lebih baik.",
+    "location": "Jl. D.I. Panjaitan No. 45, Kebon Pala, Jakarta Timur, DKI Jakarta 13340",
+    "goal": 60,
+    "progress": 30,
+    "donatedItem": "Alat Musik",
+    "authorId": 3,
+    "categoryId": 4,
+    "expirationDate": "2023-12-01"
+  },
+  {
+    "title": "Komputer dan Laptop untuk Belajar Online",
+    "description": "Pandemi telah mengubah cara kita belajar dan banyak anak yang membutuhkan perangkat untuk belajar dari rumah. Mari donasikan komputer atau laptop lama untuk mendukung pendidikan mereka.",
+    "location": "Jl. M.T. Haryono Kav. 23, Tebet, Jakarta Selatan, DKI Jakarta 12820",
+    "goal": 80,
+    "progress": 25,
+    "donatedItem": "Komputer/Laptop",
+    "authorId": 2,
+    "categoryId": 5,
+    "expirationDate": "2023-12-07"
+  },
+  {
+    "title": "Perabotan untuk Keluarga yang Membutuhkan",
+    "description": "Banyak keluarga yang memulai dari nol setelah mengalami kesulitan finansial karena pandemi. Donasikan perabotan rumah tangga Anda untuk membantu mereka membangun kembali rumah mereka.",
+    "location": "Jl. H. Nawi No. 34, Cilandak, Jakarta Selatan, DKI Jakarta 12430",
+    "goal": 70,
+    "progress": 18,
+    "donatedItem": "Perabotan",
+    "authorId": 3,
+    "categoryId": 3,
+    "expirationDate": "2023-11-27"
+  }
+]

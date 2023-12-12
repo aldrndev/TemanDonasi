@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Voucher 50.000",
+    "redeemPoint": 500,
+    "rewardCategoryId": 1
+  },
+  {
+    "name": "Voucher 100.000",
+    "redeemPoint": 1000,
+    "rewardCategoryId": 1
+  },
+  {
+    "name": "Voucher 250.000",
+    "redeemPoint": 2500,
+    "rewardCategoryId": 1
+  },
+  {
+    "name": "Voucher 50.000",
+    "redeemPoint": 500,
+    "rewardCategoryId": 2
+  },
+  {
+    "name": "Voucher 100.000",
+    "redeemPoint": 1000,
+    "rewardCategoryId": 2
+  },
+  {
+    "name": "Voucher 250.000",
+    "redeemPoint": 2500,
+    "rewardCategoryId": 2
+  },
+  {
+    "name": "Voucher 50.000",
+    "redeemPoint": 500,
+    "rewardCategoryId": 3
+  },
+  {
+    "name": "Voucher 100.000",
+    "redeemPoint": 1000,
+    "rewardCategoryId": 3
+  },
+  {
+    "name": "Voucher 250.000",
+    "redeemPoint": 2500,
+    "rewardCategoryId": 3
+  },
+  {
+    "name": "Voucher 50.000",
+    "redeemPoint": 500,
+    "rewardCategoryId": 4
+  },
+  {
+    "name": "Voucher 100.000",
+    "redeemPoint": 1000,
+    "rewardCategoryId": 4
+  },
+  {
+    "name": "Voucher 250.000",
+    "redeemPoint": 2500,
+    "rewardCategoryId": 4
+  },
+  {
+    "name": "Voucher 50.000",
+    "redeemPoint": 500,
+    "rewardCategoryId": 5
+  },
+  {
+    "name": "Voucher 100.000",
+    "redeemPoint": 1000,
+    "rewardCategoryId": 5
+  },
+  {
+    "name": "Voucher 250.000",
+    "redeemPoint": 2500,
+    "rewardCategoryId": 5
+  },
+  {
+    "name": "Voucher 50.000",
+    "redeemPoint": 500,
+    "rewardCategoryId": 6
+  },
+  {
+    "name": "Voucher 100.000",
+    "redeemPoint": 1000,
+    "rewardCategoryId": 6
+  },
+  {
+    "name": "Voucher 250.000",
+    "redeemPoint": 2500,
+    "rewardCategoryId": 6
+  }
+]

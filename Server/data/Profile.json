@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Aldrin",
+    "phoneNumber": "0822626643",
+    "address": "Senayan, Jakarta",
+    "point": 10000,
+    "profileImg": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg",
+    "UserId": 1
+  },
+  {
+    "fullName": "Nico",
+    "phoneNumber": "0878465466",
+    "address": "Semarang, Jawa Tengah",
+    "point": 5000,
+    "profileImg": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg",
+    "UserId": 2
+  },
+  {
+    "fullName": "Arif",
+    "phoneNumber": "0888161561",
+    "address": "Depok, Jawa Barat",
+    "point": 1000,
+    "profileImg": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg",
+    "UserId": 3
+  },
+  {
+    "fullName": "Axel",
+    "phoneNumber": "0888787878",
+    "address": "Kembangan, Jakarta Barat",
+    "point": 2500,
+    "profileImg": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg",
+    "UserId": 4
+  }
+]

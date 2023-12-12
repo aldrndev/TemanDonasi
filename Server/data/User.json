@@ -1,0 +1,30 @@
+[
+  {
+    "username": "aldrin",
+    "email": "aldrin@gmail.com",
+    "password": "123456",
+    "role": "Admin",
+    "isVerified": true
+  },
+  {
+    "username": "arif",
+    "email": "arif@gmail.com",
+    "password": "123456",
+    "role": "User",
+    "isVerified": true
+  },
+  {
+    "username": "nico",
+    "email": "nico@gmail.com",
+    "password": "123456",
+    "role": "User",
+    "isVerified": true
+  },
+  {
+    "username": "axel",
+    "email": "axel@gmail.com",
+    "password": "123456",
+    "role": "User",
+    "isVerified": false
+  }
+]
